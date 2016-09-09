@@ -1,0 +1,8 @@
+{
+  "device_host_name_or_ip_address": "[device hostname or IP adress]",
+  "device_user_name": "pi",
+  "device_password": "raspberry",
+  "project_folder": "./node-pi-blink",
+  "start_file": "blink.js",
+  "ssh_port": 22
+}
